@@ -1,0 +1,12 @@
+{
+  "name": "reactmidudev",
+  "version": "1.0.0",
+  "description": "Repositorio creado con la idea de seguir el curso de React de @Midudev en Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
